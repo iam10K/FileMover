@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FileMover">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileMover</output-path>
+    <root id="archive" name="FileMover.jar">
+      <element id="module-output" name="FileMover" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
